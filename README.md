@@ -1,0 +1,1 @@
+Command Line Application which accepts a user's input of a keyword or search team and should be used to perform a search using my selected API (https://myanimelist.net/clubs.php?cid=13727). App then displays the search result and allows user to select from the search result list. API performs a get/fetch by a unique identifier to display more details about the search selected.
